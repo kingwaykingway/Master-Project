@@ -1,0 +1,1392 @@
+﻿Log file open, 06/23/22 13:46:28
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: VR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280464
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[vr.PixelDensity:1]]
+LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+LogConfig: Setting CVar [[r.BloomQuality:1]]
+LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+LogConfig: Setting CVar [[r.SSR.Quality:1]]
+LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+LogConfig: Setting CVar [[r.SSR.MaxRoughness:0.1]]
+LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+LogConfig: Setting CVar [[sg.EffectsQuality:2]]
+LogConfig: Setting CVar [[sg.PostProcessQuality:0]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.06.23-12.46.29:134][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.06.23-12.46.29:135][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.23-12.46.29:136][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:136][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:200][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.23-12.46.29:200][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.23-12.46.29:201][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.23-12.46.29:201][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.23-12.46.29:201][  0]LogHAL: Display: Platform has ~ 16 GB [17077575680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.23-12.46.29:201][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.23-12.46.29:201][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.23-12.46.29:201][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:201][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.23-12.46.29:202][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Scalability.ini]
+[2022.06.23-12.46.29:203][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.23-12.46.29:203][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.23-12.46.29:203][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.23-12.46.29:203][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.23-12.46.29:203][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.23-12.46.29:203][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.23-12.46.29:203][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.23-12.46.29:203][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Engine.ini]
+[2022.06.23-12.46.29:203][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/Master-Project/VR/Saved/Config/Windows/Editor.ini]
+[2022.06.23-12.46.29:204][  0]LogInit: Computer: DESKTOP-JG627LP
+[2022.06.23-12.46.29:204][  0]LogInit: User: Kingway
+[2022.06.23-12.46.29:204][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.23-12.46.29:204][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.23-12.46.29:204][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.23-12.46.29:204][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.23-12.46.29:204][  0]LogMemory: Process Physical Memory: 144.23 MB used, 144.24 MB peak
+[2022.06.23-12.46.29:204][  0]LogMemory: Process Virtual Memory: 124.85 MB used, 124.85 MB peak
+[2022.06.23-12.46.29:204][  0]LogMemory: Physical Memory: 9142.36 MB used,  7144.08 MB free, 16286.45 MB total
+[2022.06.23-12.46.29:204][  0]LogMemory: Virtual Memory: 134200080.00 MB used,  17649.97 MB free, 134217728.00 MB total
+[2022.06.23-12.46.29:218][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.23-12.46.29:327][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.23-12.46.29:328][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.06.23-12.46.29:328][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.06.23-12.46.29:546][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.23-12.46.29:565][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.23-12.46.29:584][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.23-12.46.29:584][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.23-12.46.29:753][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.23-12.46.29:753][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.23-12.46.29:753][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.23-12.46.29:867][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2022.06.23-12.46.29:867][  0]LogD3D11RHI:       8079/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.06.23-12.46.29:915][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2022.06.23-12.46.29:915][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.23-12.46.29:917][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.23-12.46.29:917][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.23-12.46.29:917][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.23-12.46.29:925][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.23-12.46.29:925][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.23-12.46.29:925][  0]LogWindows: EnumDisplayDevices:
+[2022.06.23-12.46.29:925][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2022.06.23-12.46.29:926][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2022.06.23-12.46.29:927][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.06.23-12.46.29:927][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.06.23-12.46.29:928][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2022.06.23-12.46.29:929][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2022.06.23-12.46.29:930][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2022.06.23-12.46.29:931][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.23-12.46.29:931][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.06.23-12.46.29:931][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2022.06.23-12.46.29:931][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2022.06.23-12.46.29:931][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2022.06.23-12.46.30:011][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.23-12.46.30:011][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.23-12.46.30:011][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.23-12.46.30:036][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.23-12.46.30:037][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.23-12.46.30:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.23-12.46.30:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.23-12.46.30:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.23-12.46.30:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.23-12.46.30:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.23-12.46.30:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.23-12.46.30:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.23-12.46.30:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.23-12.46.30:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.23-12.46.30:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.23-12.46.30:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.23-12.46.30:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.23-12.46.30:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.23-12.46.30:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.23-12.46.30:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.23-12.46.30:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.23-12.46.30:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.23-12.46.30:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.23-12.46.30:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.23-12.46.30:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.23-12.46.30:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.23-12.46.30:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.23-12.46.30:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.23-12.46.30:795][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.23-12.46.30:803][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.23-12.46.30:876][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.23-12.46.30:876][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Unreal Projects/Master-Project/VR/Intermediate/Shaders/WorkingDirectory/24064/).
+[2022.06.23-12.46.30:876][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kingw/AppData/Local/Temp/UnrealShaderWorkingDir/8084D4194E5ED4F5F5C4EBBC4B951004/'.
+[2022.06.23-12.46.30:876][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.23-12.46.30:876][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.23-12.46.31:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.23-12.46.31:736][  0]LogDerivedDataCache: Loaded boot cache 0.09s 101MB C:/Users/kingw/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.23-12.46.31:736][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kingw/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.23-12.46.31:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Master-Project/VR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.23-12.46.31:737][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.23-12.46.31:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Master-Project/VR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.23-12.46.31:737][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.23-12.46.31:751][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.23-12.46.31:751][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.23-12.46.31:751][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.23-12.46.31:765][  0]LogDerivedDataCache: Speed tests for C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.23-12.46.31:765][  0]LogDerivedDataCache: Display: Performance to C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=146.29MBs, RandomWriteSpeed=154.43MBs. Assigned SpeedClass 'Local'
+[2022.06.23-12.46.31:766][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kingw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.23-12.46.31:766][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.23-12.46.31:766][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.23-12.46.31:846][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.23-12.46.31:846][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.23-12.46.31:881][  0]LogAssetRegistry: FAssetRegistry took 0.0071 seconds to start up
+[2022.06.23-12.46.32:148][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.23-12.46.32:148][  0]LogInit: Active device profile: [0000026E05432F00][0000026E041C00C0 49] Windows
+[2022.06.23-12.46.32:148][  0]LogInit: Profiles: [0000026E05432F00][0000026E041C00C0 49] Windows, [0000026E05419300][0000026E041C4240 49] WindowsNoEditor, [0000026E05431300][0000026E041C83C0 49] WindowsServer, [0000026E0541A800][0000026E041CC540 49] WindowsClient, [0000026E05432700][0000026E041D06C0 49] IOS, [0000026E05419B00][0000026E041D4840 49] iPadAir, [0000026E05431A00][0000026E041D89C0 49] iPadAir2, [0000026E053CC300][0000026E041E0C80 49] IPadPro, [0000026E053CC400][0000026E041DCCC0 49] iPadAir3, [0000026E05433300][0000026E041E4E40 49] iPadAir4, [0000026E053CEA00][0000026E041E8FC0 49] iPadMini2, [0000026E05430F00][0000026E041ED140 49] iPadMini3, [0000026E053CC800][0000026E041F12C0 49] iPadMini4, [0000026E05430700][0000026E041F5440 49] iPadMini5, [0000026E053BFB00][0000026E041FD700 49] iPhone6, [0000026E053BFC00][0000026E041F9740 49] iPodTouch6, [0000026E053CED00][0000026E04201980 49] iPhone7, [0000026E053CEB00][0000026E79CFD9C0 49] iPodTouch7, [0000026E053BD700][0000026E04205B00 49] iPhone5S, [0000026E053CCF00][0000026E04209C40 49] iPhone6Plus, [0000026E053BFD00][0000026E06220100 49] iPhone6S, [0000026E053CC600][0000026E06224280 49] iPhone6SPlus, [0000026E053BD300][0000026E06228400 49] iPhone7Plus, [0000026E053CE300][0000026E0622C580 49] iPhoneSE, [0000026E053BCA00][0000026E06230700 49] iPhone8, [0000026E053CE500][0000026E06234880 49] iPhone8Plus, [0000026E053BD800][0000026E06238A00 49] iPhoneX, [0000026E053CE200][0000026E0623CB80 49] iPhoneXS, [0000026E053BCB00][0000026E06240D00 49] iPhoneXSMax, [0000026E053CDF00][0000026E06244E80 49] iPhoneXR, [0000026E053BE600][0000026E06249000 49] iPhone11, [0000026E053CC900][0000026E0624D180 49] iPhone11Pro, [0000026E053BF900][0000026E06251300 49] iPhone11ProMax, [0000026E053CE800][0000026E06255480 49] iPhoneSE2, [0000026E053BD600][0000026E0626B600 49] iPhone12Mini, [0000026E053CE900][0000026E0627F780 49] iPhone12, [0000026E053BDF00][0000026E06283900 49] iPhone12Pro, [0000026E053CEC00][0000026E0420DA40 49] iPhone12ProMax, [0000026E053BF700][0000026E06287B80 49] iPadPro105, [0000026E053CD800][0000026E0628BCC0 49] iPadPro129, [0000026E053BCD00][0000026E06292180 49] iPadPro97, [0000026E053CCA00][0000026E06296300 49] iPadPro2_129, [0000026E053BF000][0000026E0633E480 49] iPad5, [0000026E053CFA00][0000026E06396600 49] iPad6, [0000026E053BCC00][0000026E06406780 49] iPad7, [0000026E053CC500][0000026E0640E900 49] iPad8, [0000026E053BED00][0000026E06432A80 49] iPadPro11, [0000026E053CC100][0000026E0643AC00 49] iPadPro2_11, [0000026E053BC700][0000026E0643ED80 49] iPadPro3_129, [0000026E053CD700][0000026E06442F00 49] iPadPro4_129, [0000026E053BD400][0000026E06447080 49] AppleTV, [0000026E053CD500][0000026E0644F200 49] AppleTV4K, [0000026E053BFF00][0000026E06453380 49] TVOS, [0000026E053CD900][0000026E0645B500 49] Mac, [0000026E053BD900][0000026E0645F680 49] MacClient, [0000026E053CEF00][0000026E06463800 49] MacNoEditor, [0000026E0541BA00][0000026E06467980 49] MacServer, [0000026E053BE400][0000026E0628FAC0 49] Linux, [0000026E0549CF00][0000026E06477C00 49] LinuxAArch64, [0000026E053BE300][0000026E0647BD40 49] LinuxNoEditor, [0000026E0549C600][0000026E0647E1C0 49] LinuxAArch64NoEditor, [0000026E053BE100][0000026E06486340 49] LinuxClient, [0000026E0549D100][0000026E064A24C0 49] LinuxAArch64Client, [0000026E053BC300][0000026E064A6640 49] LinuxServer, [0000026E0549C500][0000026E064AA7C0 49] LinuxAArch64Server, [0000026E053BC500][0000026E064AE940 49] Android, [0000026E0549C200][0000026E064B2AC0 49] Android_Low, [0000026E053BC900][0000026E064D6C40 49] Android_Mid, [0000026E053CF000][0000026E064DADC0 49] Android_High, [0000026E053BD100][0000026E064DEF40 49] Android_Default, [0000026E053CF400][0000026E064E30C0 49] Android_Adreno4xx, [0000026E053BEE00][0000026E064E7240 49] Android_Adreno5xx_Low, [0000026E053CF200][0000026E064EB3C0 49] Android_Adreno5xx, [0000026E053BC400][0000026E064EF540 49] Android_Adreno6xx, [0000026E053CC700][0000026E064F36C0 49] Android_Adreno6xx_Vulkan, [0000026E053BDE00][0000026E064F7840 49] Android_Mali_T6xx, [0000026E053CD400][0000026E064FB9C0 49] Android_Mali_T7xx, [0000026E053BD500][0000026E06483B00 49] Android_Mali_T8xx, [0000026E053CFD00][0000026E064FFC40 49] Android_Mali_G71, [0000026E053BEB00][0000026E065020C0 49] Android_Mali_G72, [0000026E053CFB00][0000026E06506200 49] Android_Mali_G72_Vulkan, [0000026E053BFA00][0000026E0650E380 49] Android_Mali_G76, [0000026E053CE700][0000026E06512500 49] Android_Mali_G76_Vulkan, [0000026E053BDA00][0000026E06516680 49] Android_Mali_G77, [0000026E053CFE00][0000026E0651A800 49] Android_Mali_G77_Vulkan, [0000026E053BF400][0000026E0651E980 49] Android_Vulkan_SM5, [0000026E053CF300][0000026E06522B00 49] Android_PowerVR_G6xxx, [0000026E053BE700][0000026E06526C80 49] Android_PowerVR_GT7xxx, [0000026E053CF800][0000026E0652AE00 49] Android_PowerVR_GE8xxx, [0000026E053BC600][0000026E0652EF80 49] Android_PowerVR_GM9xxx, [0000026E053CFF00][0000026E06533100 49] Android_PowerVR_GM9xxx_Vulkan, [0000026E053BF200][0000026E06537280 49] Android_TegraK1, [0000026E053CD300][0000026E0653B400 49] Android_Unknown_Vulkan, [0000026E053BC100][0000026E0653F580 49] Lumin, [0000026E053CF600][0000026E06543700 49] Lumin_Desktop, [0000026E053BDD00][0000026E06547880 49] HoloLens, 
+[2022.06.23-12.46.32:259][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.23-12.46.32:259][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.23-12.46.32:259][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.23-12.46.32:259][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.23-12.46.32:259][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.23-12.46.32:280][  0]LogNetVersion: VR 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2025759942)
+[2022.06.23-12.46.32:745][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.23-12.46.32:806][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.060243 seconds
+[2022.06.23-12.46.32:811][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.23-12.46.32:811][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.23-12.46.32:811][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.23-12.46.33:223][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.23-12.46.33:227][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.23-12.46.33:315][  0]SourceControl: Source control is disabled
+[2022.06.23-12.46.33:315][  0]SourceControl: Source control is disabled
+[2022.06.23-12.46.33:318][  0]SourceControl: Source control is disabled
+[2022.06.23-12.46.33:321][  0]SourceControl: Source control is disabled
+[2022.06.23-12.46.33:337][  0]LogUProjectInfo: Found projects:
+[2022.06.23-12.46.33:529][  0]SourceControl: Source control is disabled
+[2022.06.23-12.46.33:616][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.23-12.46.33:637][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.23-12.46.33:637][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.23-12.46.33:689][  0]LogCollectionManager: Loaded 0 collections in 0.001154 seconds
+[2022.06.23-12.46.33:715][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/Master-Project/VR/Saved/Collections/' took 0.00s
+[2022.06.23-12.46.33:715][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/Master-Project/VR/Content/Developers/Kingway/Collections/' took 0.00s
+[2022.06.23-12.46.33:715][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/Master-Project/VR/Content/Collections/' took 0.00s
+[2022.06.23-12.46.33:715][  0]LogOcInput: OculusInput pre-init called
+[2022.06.23-12.46.33:999][  0]LogEngine: Initializing Engine...
+[2022.06.23-12.46.34:000][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.23-12.46.34:000][  0]LogHMD: Initializing OVRPlugin session
+[2022.06.23-12.46.37:678][  0]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2022.06.23-12.46.37:679][  0]LogHMD: Oculus plugin initialized. Version: 4.26.2-15973114+++UE4+Release-4.26, OVRPlugin: 1.51.0
+[2022.06.23-12.46.37:681][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.23-12.46.37:871][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.23-12.46.37:883][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.23-12.46.37:907][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.23-12.46.37:914][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.23-12.46.37:914][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-12.46.37:914][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-12.46.37:915][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-12.46.37:915][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.23-12.46.37:915][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-12.46.37:984][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-12.46.37:984][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-12.46.38:060][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Bose Mini SoundLink Stereo)
+[2022.06.23-12.46.38:066][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-12.46.38:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-12.46.38:069][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-12.46.38:071][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-12.46.38:071][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-12.46.38:071][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-12.46.38:072][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-12.46.38:072][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-12.46.38:072][  0]LogInit: FAudioDevice initialized.
+[2022.06.23-12.46.38:073][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.23-12.46.38:073][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.23-12.46.38:152][  0]LogDerivedDataCache: Saved boot cache 0.08s 101MB C:/Users/kingw/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.23-12.46.38:156][  0]LogInit: Texture streaming: Enabled
+[2022.06.23-12.46.38:175][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.23-12.46.38:195][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.23-12.46.38:195][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.23-12.46.38:222][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.23-12.46.38:259][  0]LogInit: Transaction tracking system initialized
+[2022.06.23-12.46.38:292][  0]BlueprintLog: New page: Editor Load
+[2022.06.23-12.46.38:405][  0]LocalizationService: Localization service is disabled
+[2022.06.23-12.46.38:444][  0]TimingProfiler: Initialize
+[2022.06.23-12.46.38:444][  0]TimingProfiler: OnSessionChanged
+[2022.06.23-12.46.38:444][  0]LoadingProfiler: Initialize
+[2022.06.23-12.46.38:444][  0]LoadingProfiler: OnSessionChanged
+[2022.06.23-12.46.38:444][  0]NetworkingProfiler: Initialize
+[2022.06.23-12.46.38:445][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.23-12.46.38:445][  0]MemoryProfiler: Initialize
+[2022.06.23-12.46.38:445][  0]MemoryProfiler: OnSessionChanged
+[2022.06.23-12.46.38:758][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.23-12.46.38:758][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.23-12.46.38:992][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/Master-Project/VR/Content/' took 0.01s
+[2022.06.23-12.46.39:340][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.23-12.46.39:354][  0]SourceControl: Source control is disabled
+[2022.06.23-12.46.39:354][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.086
+[2022.06.23-12.46.39:354][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Master-Project/VR/Content/_Custom/MotionControllerMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.23-12.46.39:355][  0]LightingResults: New page: Lighting Build
+[2022.06.23-12.46.39:356][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-12.46.39:356][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-12.46.39:356][  0]MapCheck: New page: Map Check
+[2022.06.23-12.46.39:356][  0]LightingResults: New page: Lighting Build
+[2022.06.23-12.46.39:365][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.23-12.46.39:879][  0]LogBlueprint: Warning: [AssetLog] C:\Unreal Projects\Master-Project\VR\Content\VirtualRealityBP\Blueprints\BP_MotionController.uasset: [Compiler] OnComponentHit (ControllerMesh)  does not have a valid matching component!
+[2022.06.23-12.46.40:474][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MotionControllerMap1'.
+[2022.06.23-12.46.40:475][  0]LogAIModule: Creating AISystem for world MotionControllerMap1
+[2022.06.23-12.46.40:490][  0]LogBlueprintUserMessages: [DESTROYED__FlightControlStick_C_CHILDACTOR_321] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Hello
+[2022.06.23-12.46.40:492][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.23-12.46.40:506][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.06.23-12.46.40:507][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.23-12.46.40:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2022.06.23-12.46.40:507][  0]LogFileHelpers: Loading map 'MotionControllerMap1' took 1.153
+[2022.06.23-12.46.40:510][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.241
+[2022.06.23-12.46.40:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-12.46.40:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-12.46.40:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-12.46.40:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-12.46.40:814][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.23-12.46.40:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.23-12.46.40:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.06.23-12.46.40:828][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.23-12.46.40:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.23-12.46.40:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.06.23-12.46.40:836][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.23-12.46.40:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.23-12.46.40:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.06.23-12.46.40:846][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.23-12.46.40:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.23-12.46.40:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.06.23-12.46.40:856][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.23-12.46.40:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.23-12.46.40:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.23-12.46.40:866][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.23-12.46.40:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.23-12.46.40:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.23-12.46.40:875][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.23-12.46.40:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.23-12.46.40:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.06.23-12.46.40:885][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.23-12.46.40:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.23-12.46.40:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.06.23-12.46.40:911][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.23-12.46.40:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.23-12.46.40:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.06.23-12.46.40:922][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.23-12.46.40:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.23-12.46.40:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.06.23-12.46.40:931][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.23-12.46.40:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.23-12.46.40:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.06.23-12.46.40:941][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.23-12.46.40:941][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:941][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.23-12.46.40:941][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.06.23-12.46.40:950][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.23-12.46.40:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.23-12.46.40:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.06.23-12.46.40:959][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.23-12.46.40:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.23-12.46.40:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.06.23-12.46.40:969][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.23-12.46.40:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.23-12.46.40:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.06.23-12.46.40:979][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.23-12.46.40:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.23-12.46.40:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.06.23-12.46.40:988][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.23-12.46.40:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.23-12.46.40:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2022.06.23-12.46.40:998][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.23-12.46.40:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.40:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.23-12.46.40:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.06.23-12.46.41:007][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.23-12.46.41:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.23-12.46.41:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.06.23-12.46.41:023][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.23-12.46.41:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.23-12.46.41:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.06.23-12.46.41:032][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.23-12.46.41:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.23-12.46.41:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2022.06.23-12.46.41:042][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.23-12.46.41:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.23-12.46.41:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.06.23-12.46.41:051][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.23-12.46.41:051][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:051][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.23-12.46.41:051][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.06.23-12.46.41:061][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.23-12.46.41:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.23-12.46.41:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2022.06.23-12.46.41:069][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.23-12.46.41:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.23-12.46.41:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2022.06.23-12.46.41:078][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.23-12.46.41:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.23-12.46.41:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.23-12.46.41:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2022.06.23-12.46.42:113][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.23-12.46.42:228][  0]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.23-12.46.42:237][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.23-12.46.42:253][  0]LogSlate: Took 0.008037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.23-12.46.42:452][  0]LogRenderer: Reallocating scene render targets to support 1180x688 Format 26 NumSamples 1 (Frame:1).
+[2022.06.23-12.46.42:638][  0]LogLoad: (Engine Initialization) Total time: 15.37 seconds
+[2022.06.23-12.46.42:638][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.23-12.46.42:638][  0]LogInit: First time updating LLM stats...
+[2022.06.23-12.46.42:654][  0]LogOcInput: OculusInput is initialized
+[2022.06.23-12.46.42:711][  0]LogAssetRegistry: Asset discovery search completed in 10.8340 seconds
+[2022.06.23-12.46.42:712][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.06.23-12.46.42:764][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.23-12.46.43:045][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0173 seconds. Added 3601 classes and 859 folders.
+[2022.06.23-12.46.43:362][  2]LogSlate: Took 0.007025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.23-12.46.44:038][  4]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.23-12.47.10:120][ 82]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.23-12.47.10:120][ 82]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.23-12.47.12:181][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2022.06.23-12.47.12:827][325]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.06.23-12.47.13:856][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2022.06.23-12.47.14:256][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_FlightControl/_FlightControlStick._FlightControlStick
+[2022.06.23-12.47.14:645][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2022.06.23-12.47.15:190][325]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.23-12.47.15:304][325]LogSlate: Took 0.005803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.23-12.47.15:360][326]LogSlate: Took 0.005003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.23-12.49.53:492][797]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.06.23-12.49.53:513][797]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.06.23-12.52.52:557][549]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/MI_Shell_01_M_Inst.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.52:561][549]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/M_8X8_Smokes_04_M.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.52:597][551]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/MI_Shell_01_M_Inst.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.52:597][551]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/M_8X8_Smokes_04_M.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.52:691][554]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/MI_Shell_01_M_Inst.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.52:691][554]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/M_8X8_Smokes_04_M.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:038][555]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/MI_Shell_01_M_Inst.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:038][555]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/M_8X8_Smokes_04_M.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:038][555]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/MI_Shell_01_M_Inst.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:038][555]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Shared/Particles/Materials/MasterMaterials/M_8X8_Smokes_04_M.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:064][556]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:114][561]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:138][563]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Damaged/SM_East_Fighter_Su33_Damaged.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:210][571]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Damaged/SM_East_Fighter_Su33_Damaged.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:210][571]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Damaged/SM_East_Fighter_Su33_Damaged.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:221][572]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/FX/NS_East_FIghter_Su33_Damaged.uasset has newer custom version of Release
+[2022.06.23-12.52.53:231][573]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/FX/NS_East_Fighter_Su33_Jet.uasset has newer custom version of Release
+[2022.06.23-12.52.53:236][574]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:238][574]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33_Map_LTG.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/FX/NS_East_Fighter_Su33_Jet.uasset has newer custom version of Release
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/FX/NS_East_FIghter_Su33_Damaged.uasset has newer custom version of Release
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/FX/NS_East_Fighter_Su33_Jet.uasset has newer custom version of Release
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/FX/NS_East_FIghter_Su33_Damaged.uasset has newer custom version of Release
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33_Map_LTG.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:310][583]LogAssetRegistry: Error: Package ../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33_Map_LTG.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:321][584]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33_Map_LTG_BuiltData.uasset has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:380][591]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33_Map_Vehicle.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.53:407][594]LogAssetRegistry: Error: Package C:/Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/Level/East_Fighter_Su33_Map_Vehicle.umap has newer custom version of Dev-Rendering
+[2022.06.23-12.52.56:624][977]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Unreal Projects/Master-Project/VR/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.23-12.52.56:624][977]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Unreal Projects/Master-Project/VR/Content/Developers/Kingway/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.23-12.52.56:750][990]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Unreal Projects/Master-Project/VR/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.06.23-12.53.21:841][688]LogContentBrowser: Deferred new asset file creation: MotionControllerMap2
+[2022.06.23-12.53.21:859][688]LogContentBrowser: Creating deferred item: MotionControllerMap2
+[2022.06.23-12.53.23:084][835]LogContentBrowser: Attempting asset rename: MotionControllerMap2 -> MotionControllerMap2
+[2022.06.23-12.53.23:136][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.23-12.53.23:161][835]LogBlueprintUserMessages: [DESTROYED__FlightControlStick_C_CHILDACTOR_1] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Hello
+[2022.06.23-12.53.23:165][835]LogContentBrowser: End creating deferred item MotionControllerMap2
+[2022.06.23-12.53.23:823][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.06.23-12.53.25:283][910]LogSlate: Window 'Save Content' being destroyed
+[2022.06.23-12.53.25:332][910]LogBlueprintUserMessages: [DESTROYED__FlightControlStick_C_CHILDACTOR_4] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Hello
+[2022.06.23-12.53.25:362][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.06.23-12.53.25:402][910]LogSavePackage: Moving '../../../../../../Unreal Projects/Master-Project/VR/Saved/MotionControllerMap23A64F7274EBF57CD2E0EF78B3E225B11.tmp' to '../../../../../../Unreal Projects/Master-Project/VR/Content/_Custom/MotionControllerMap2.umap'
+[2022.06.23-12.53.25:407][910]LogBlueprintUserMessages: [DESTROYED__FlightControlStick_C_CHILDACTOR_7] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Hello
+[2022.06.23-12.53.25:408][910]LogFileHelpers: Saving map 'MotionControllerMap2' took 0.082
+[2022.06.23-12.53.25:430][910]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Custom/MotionControllerMap2.MotionControllerMap2
+[2022.06.23-12.53.25:431][910]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Master-Project/VR/Content/_Custom/MotionControllerMap2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.23-12.53.25:431][910]LightingResults: New page: Lighting Build
+[2022.06.23-12.53.25:431][910]LoadErrors: New page: Loading map: MotionControllerMap2.umap
+[2022.06.23-12.53.25:480][910]LogWorld: UWorld::CleanupWorld for MotionControllerMap1, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-12.53.25:480][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-12.53.25:481][910]MapCheck: New page: Map Check
+[2022.06.23-12.53.25:481][910]LightingResults: New page: Lighting Build
+[2022.06.23-12.53.25:504][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-12.53.25:509][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.06.23-12.53.25:510][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'MotionControllerMap2'.
+[2022.06.23-12.53.25:516][910]LogBlueprintUserMessages: [DESTROYED__FlightControlStick_C_CHILDACTOR_10] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          Hello
+[2022.06.23-12.53.25:598][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.23-12.53.25:598][910]LogAIModule: Creating AISystem for world MotionControllerMap2
+[2022.06.23-12.53.25:625][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.06.23-12.53.25:630][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.23-12.53.25:632][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.32ms to complete.
+[2022.06.23-12.53.25:632][910]LogFileHelpers: Loading map 'MotionControllerMap2' took 0.201
+[2022.06.23-12.53.25:649][910]AssetCheck: New page: Asset Save: MotionControllerMap2
+[2022.06.23-12.53.25:649][910]LogContentValidation: Display: Validating World /Game/_Custom/MotionControllerMap2.MotionControllerMap2
+[2022.06.23-12.53.32:449][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:449][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:449][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:449][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:450][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:450][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:450][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:450][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:451][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:451][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:451][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:452][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:452][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:452][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:452][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:453][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:453][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:453][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:453][710]LogLinker: Warning: Unable to load Default__BP_East_Fighter_Su33_Showcase_C with outer Package /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase because its class does not exist
+[2022.06.23-12.53.32:453][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:454][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:454][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:454][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:455][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:455][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:455][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:455][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:455][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:456][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:456][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:456][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:456][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:457][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:457][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:457][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:457][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:457][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:458][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:458][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:458][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:458][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:459][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:459][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:459][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:460][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:460][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:460][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:460][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:460][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:461][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:461][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:461][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:462][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:462][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:462][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:463][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:463][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:463][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:463][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:464][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:464][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:464][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:464][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:464][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:465][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:465][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:465][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:465][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:466][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:466][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:466][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:466][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:466][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:467][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:467][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:467][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:467][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:468][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:468][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:468][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:468][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:468][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:469][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:469][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:469][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:470][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:470][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:470][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:470][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:471][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:471][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:471][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:471][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:471][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:472][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:472][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:472][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:472][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:473][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:473][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:473][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:473][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:473][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:474][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:474][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:474][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:474][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:475][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:475][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:475][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:475][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:475][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:476][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:476][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:476][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:476][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:477][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:477][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:477][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:477][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:477][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:478][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:478][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:478][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:479][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:479][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:479][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:479][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:480][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:480][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:480][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:480][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:480][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:481][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:481][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:481][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:481][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:482][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:482][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:482][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:483][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:483][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:483][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:483][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:484][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:484][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:484][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetShowDamaged) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:484][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:485][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:485][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetAfterburner) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:485][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:485][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:485][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetAileronL) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:486][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:486][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:486][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetAileronR) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:486][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:487][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:487][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetStabilizersR) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:487][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:487][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:487][710]LogBlueprint: Warning: FMemberReference::ResolveMember (RetractFrontWheel) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:488][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:488][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:488][710]LogBlueprint: Warning: FMemberReference::ResolveMember (RetractRearRWheel) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:488][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:489][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:489][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetAileronL) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:489][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:489][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:489][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetLightsEmissivity) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:490][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:490][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:490][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetWingsFold) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:490][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:491][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:491][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetAileronR) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:491][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:492][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:492][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetCanopyOpen) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:492][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:492][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:492][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetFlapsL) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:493][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:493][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:493][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetFlapsR) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:493][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:494][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:494][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetExhaustNozzles) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:494][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:494][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:494][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetRefillOpen) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:495][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:495][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:495][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetHookAngle) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:495][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:496][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:496][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetAirBrake) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:496][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:496][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:496][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetCanardLWing) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:497][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:497][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:497][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetCanardRWing) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:497][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:498][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:498][710]LogBlueprint: Warning: FMemberReference::ResolveMember (RetractRearLWheel) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:498][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:498][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:498][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetRudder) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:499][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:499][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:499][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetWingsFold) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:499][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:499][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:499][710]LogBlueprint: Warning: FMemberReference::ResolveMember (SetStabilizersL) bSelfContext == true, but no scope supplied!
+[2022.06.23-12.53.32:500][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:500][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:501][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:501][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:502][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:502][710]LogLinker: Warning: Asset '../../../../../../Unreal Projects/Master-Project/VR/Content/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33.uasset' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.23-12.53.32:502][710]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BP_ShowcaseSetupComponent_GEN_VARIABLE': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_BP_East_Fighter_Su33_Showcase': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable0': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable1': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable2': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable3': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable4': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable5': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable6': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetButtonsVariable7': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable0': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable1': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable2': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:528][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable3': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable4': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable5': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable6': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetCheckboxVariable7': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable0': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable1': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable2': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable3': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable4': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable5': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable6': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetSliderVariable7': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable0': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable1': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable2': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable3': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable4': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable5': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable6': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SetTwinSliderVariable7': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InheritableComponentHandler': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AfterBurnerL_GEN_VARIABLE': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AfterBurnerR_GEN_VARIABLE': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DamagedEffect_GEN_VARIABLE': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C:SimpleConstructionScript_0
+[2022.06.23-12.53.32:529][710]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_1': SimpleConstructionScript /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase_C:SimpleConstructionScript_0
+[2022.06.23-12.53.51:542][935]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VigilanteContent/Vehicles/East_Fighter_Su33/Anim/A_East_Fighter_Su33_rt_rear_wheel_close.A_East_Fighter_Su33_rt_rear_wheel_close
+[2022.06.23-12.53.51:542][935]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VigilanteContent/Vehicles/East_Fighter_Su33/Anim/A_East_Fighter_Su33_lf_rear_wheel_close.A_East_Fighter_Su33_lf_rear_wheel_close
+[2022.06.23-12.53.51:648][935]LogMaterial: Display: Missing cached shader map for material M_Master_Glass_ARM_N, compiling. 
+[2022.06.23-12.53.51:957][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_glass_ARM (AutoDXT, 512X512)
+[2022.06.23-12.53.51:957][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_glass_D (AutoDXT, 512X512)
+[2022.06.23-12.53.51:957][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_glass_N (BC5, 512X512)
+[2022.06.23-12.53.51:957][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_E (AutoDXT, 4096X4096)
+[2022.06.23-12.53.51:957][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2022.06.23-12.53.51:957][935]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2022.06.23-12.53.51:957][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2022.06.23-12.53.51:957][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2022.06.23-12.53.51:957][935]LogMaterial: Display: Missing cached shader map for material M_Master_Glass_ARM_N, compiling. 
+[2022.06.23-12.53.51:999][935]LogSkeletalMesh: Building Skeletal Mesh SK_East_Fighter_Su33...
+[2022.06.23-12.53.52:656][935]LogSkeletalMesh: Section 0: Material=0, 19518 triangles
+[2022.06.23-12.53.52:656][935]LogSkeletalMesh: Section 1: Material=1, 1618 triangles
+[2022.06.23-12.53.52:663][935]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2022.06.23-12.53.52:663][935]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 1 
+[2022.06.23-12.53.52:747][935]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2022.06.23-12.53.52:747][935]LogSkeletalMeshReduction: 0.11-percent of edges are shared by more than two triangles, these may cause problems.
+[2022.06.23-12.53.52:747][935]LogSkeletalMeshReduction: 0.11-percent of edges are shared by more than two triangles, these may cause problems.
+[2022.06.23-12.53.52:747][935]LogSkeletalMeshReduction: 0.11-percent of edges are shared by more than two triangles, these may cause problems.
+[2022.06.23-12.53.54:745][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_D (AutoDXT, 4096X4096)
+[2022.06.23-12.53.54:745][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_N (BC5, 4096X4096)
+[2022.06.23-12.53.54:745][935]LogTexture: Display: Building textures: T_East_Fighter_Su33_ARM (AutoDXT, 4096X4096)
+[2022.06.23-12.53.54:812][935]LogSkeletalMesh: Section 0: Material=0, 5211 triangles
+[2022.06.23-12.53.54:812][935]LogSkeletalMesh: Section 1: Material=1, 61 triangles
+[2022.06.23-12.53.55:757][935]LogSkeletalMesh: Built Skeletal Mesh [3.76s] /Game/VigilanteContent/Vehicles/East_Fighter_Su33/SK_East_Fighter_Su33.SK_East_Fighter_Su33
+[2022.06.23-12.53.55:760][935]LogMaterial: Display: Missing cached shader map for material M_Master_Main, compiling. 
+[2022.06.23-12.54.03:256][935]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VigilanteContent/Vehicles/East_Fighter_Su33/Anim/A_East_Fighter_Su33_front_wheel_close.A_East_Fighter_Su33_front_wheel_close
+[2022.06.23-12.54.03:256][935]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VigilanteContent/Vehicles/East_Fighter_Su33/Anim/A_East_Fighter_Su33_airbrake.A_East_Fighter_Su33_airbrake
+[2022.06.23-12.54.03:345][937]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VigilanteContent/Vehicles/East_Fighter_Su33/Anim/A_East_Fighter_Su33_refuelstick_open.A_East_Fighter_Su33_refuelstick_open
+[2022.06.23-12.54.07:487][280]Cmd: TRANSACTION UNDO
+[2022.06.23-12.54.07:487][280]LogEditorTransaction: Undo Create Actors
+[2022.06.23-12.54.13:099][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VigilanteContent/Vehicles/East_Fighter_Su33/BP_East_Fighter_Su33_Showcase.BP_East_Fighter_Su33_Showcase
+[2022.06.23-12.54.21:748][735]LogSlate: Window 'Message' being destroyed
+[2022.06.23-12.54.21:754][735]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2022.06.23-12.54.21:821][735]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.23-12.54.22:787][735]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.966 s
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: 
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (BP_East_Fighter_Su33_Showcase) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: Stack: 
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2924bd4f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa29097a8d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa29098433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa290982cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa269b7dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa269e1329 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa269b8402 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c3ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c78d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa274793a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2737959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c2da41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c54a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c5046a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c2c320 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c50adf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a2c5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a4a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a3fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a6d3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26b2d25f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26b2d838 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa1f8d7e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfa2c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfa3fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfa3cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa0e369fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa0e36a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa0e357c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2021b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa201da800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2013b74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa200f9357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa20058374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa20146227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2013b93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa300a2bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa301268e7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa3010f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa30102de9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.22:788][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478ebc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478d9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478ee389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478d4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffaf8ace858 USER32.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffaf8ace299 USER32.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478ef914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ff701878848 UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ff70189117c UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ff70189125a UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ff7018a52bd UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ff7018a7fea UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffaf8967034 KERNEL32.DLL!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: [Callstack] 0x00007ffafa822651 ntdll.dll!UnknownFunction []
+[2022.06.23-12.54.22:789][735]LogOutputDevice: Error: 
+[2022.06.23-12.54.22:790][735]LogStats:                SubmitErrorReport -  0.000 s
+[2022.06.23-12.54.25:497][735]LogStats:                    SendNewReport -  2.708 s
+[2022.06.23-12.54.25:497][735]LogStats:             FDebug::EnsureFailed -  3.676 s
+[2022.06.23-12.54.25:500][735]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.23-12.54.25:502][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 144
+[2022.06.23-12.54.25:502][735]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: 
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 731]
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (BP_East_Fighter_Su33_Showcase) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: Stack: 
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2924cc2f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: [Callstack] 0x00007ffa290981df UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: [Callstack] 0x00007ffa29098433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: [Callstack] 0x00007ffa290982cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: [Callstack] 0x00007ffa269b7dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:502][735]LogOutputDevice: Error: [Callstack] 0x00007ffa269e1329 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa269b8402 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c3ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c78d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa274793a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2737959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c2da41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c54a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c5046a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c2c320 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26c50adf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a2c5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a4a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a3fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26a6d3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26b2d25f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa26b2d838 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa1f8d7e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfa2c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfa3fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2dfa3cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa0e369fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa0e36a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa0e357c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2021b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa201da800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2013b74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa200f9357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa20058374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa20146227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa2013b93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa300a2bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa301268e7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa3010f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa30102de9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478ebc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478d9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478ee389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478d4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffaf8ace858 USER32.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffaf8ace299 USER32.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ffa478ef914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.23-12.54.25:503][735]LogOutputDevice: Error: [Callstack] 0x00007ff701878848 UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: [Callstack] 0x00007ff70189117c UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: [Callstack] 0x00007ff70189125a UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: [Callstack] 0x00007ff7018a52bd UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: [Callstack] 0x00007ff7018a7fea UE4Editor.exe!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: [Callstack] 0x00007ffaf8967034 KERNEL32.DLL!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: [Callstack] 0x00007ffafa822651 ntdll.dll!UnknownFunction []
+[2022.06.23-12.54.25:504][735]LogOutputDevice: Error: 
