@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F8136D59-A472-424F-A334-A343C1BCA1A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\East_Fighter_Su33.png" />
+    <None Include="..\..\West_Attack_A10.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{8398A3E1-3E56-4F7F-8D05-E6CA704E3B38}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine - 副本.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VR">
+      <UniqueIdentifier>{78907AA0-CF90-4F82-A931-B3774AFEE091}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VR\VR.Build.cs">
+      <Filter>Source\VR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VR\VR.cpp">
+      <Filter>Source\VR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VR\VR.h">
+      <Filter>Source\VR</Filter>
+    </ClInclude>
+    <Filter Include="Source\VR\Private">
+      <UniqueIdentifier>{D54177C7-C538-4600-98E9-94791F9E12EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VR\Private\QuaternionRotation.cpp">
+      <Filter>Source\VR\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\VR\Public">
+      <UniqueIdentifier>{2A5E04B3-DDFE-4D07-BFF3-B61DD6EEADF6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\VR\Public\QuaternionRotation.h">
+      <Filter>Source\VR\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

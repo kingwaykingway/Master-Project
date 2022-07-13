@@ -1,0 +1,3 @@
+C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Definitions.VR.h
+C:\Unreal Projects\Master-Project\VR\Source\VR\Public\QuaternionRotation.h
+C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Inc\VR\QuaternionRotation.generated.h

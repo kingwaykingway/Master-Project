@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\Master-Project\\VR\\Source\\VR\\VR.Build.cs",
+		"C:\\Unreal Projects\\Master-Project\\VR\\Source\\VR.Target.cs",
+		"C:\\Unreal Projects\\Master-Project\\VR\\Source\\VREditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
