@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VR-0590.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\QuaternionRotation.cpp.obj"
+"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\VR.cpp.obj"
+"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\QuaternionRotation.gen.cpp.obj"
+"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\VR.init.gen.cpp.obj"
+"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Default.rc2.res"
+/OUT:"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\UE4Editor-VR-0590.lib"
+/INCLUDE:IMPLEMENT_MODULE_VR
