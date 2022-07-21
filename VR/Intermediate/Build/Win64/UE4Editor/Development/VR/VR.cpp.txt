@@ -1,2 +1,2 @@
-C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Definitions.VR.h
-C:\Unreal Projects\Master-Project\VR\Source\VR\VR.h
+C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Definitions.VR.h
+C:\Users\SDI\Documents\GitHub\Master-Project\VR\Source\VR\VR.h

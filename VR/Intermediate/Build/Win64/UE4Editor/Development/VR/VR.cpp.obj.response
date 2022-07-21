@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Unreal Projects\Master-Project\VR\Source\VR\Private"
+/I C:\Users\SDI\Documents\GitHub\Master-Project\VR\Source\VR\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -231,9 +231,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Inc\VR"
-/I "C:\Unreal Projects\Master-Project\VR\Source"
-/I "C:\Unreal Projects\Master-Project\VR\Source\VR\Public"
+/I C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Inc\VR
+/I C:\Users\SDI\Documents\GitHub\Master-Project\VR\Source
+/I C:\Users\SDI\Documents\GitHub\Master-Project\VR\Source\VR\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -257,18 +257,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Unreal Projects\Master-Project\VR\Source\VR\VR.cpp"
-/FI"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Definitions.VR.h"
-/Fo"C:\Unreal Projects\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\VR.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\VREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\SDI\Documents\GitHub\Master-Project\VR\Source\VR\VR.cpp"
+/FI"C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Definitions.VR.h"
+/Fo"C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\VR.cpp.obj"
 /TP
 /GR-
 /W4
