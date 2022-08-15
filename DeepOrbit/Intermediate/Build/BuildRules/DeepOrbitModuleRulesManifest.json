@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Unreal Projects\\Master-Project\\DeepOrbit\\Source\\DeepOrbit\\DeepOrbit.Build.cs",
-		"C:\\Unreal Projects\\Master-Project\\DeepOrbit\\Source\\DeepOrbit.Target.cs",
-		"C:\\Unreal Projects\\Master-Project\\DeepOrbit\\Source\\DeepOrbitEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.2"
-}
