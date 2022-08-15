@@ -1,5 +1,0 @@
-C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Development\VR\Definitions.VR.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\SDI\Documents\GitHub\Master-Project\VR\Source\VR/Public/QuaternionRotation.h
-C:\Users\SDI\Documents\GitHub\Master-Project\VR\Intermediate\Build\Win64\UE4Editor\Inc\VR\QuaternionRotation.generated.h

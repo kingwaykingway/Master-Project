@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DeepOrbit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8AB1172C-F092-429B-ABF5-7D55C94E02CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DeepOrbit.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DeepOrbitEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3037F818-8FE2-4403-A35F-0A7219AAE2A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine - 副本.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DeepOrbit">
+      <UniqueIdentifier>{736127DD-1CC8-4911-B098-0FBA1BCCDB95}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DeepOrbit\DeepOrbit.cpp">
+      <Filter>Source\DeepOrbit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DeepOrbit\DeepOrbit.h">
+      <Filter>Source\DeepOrbit</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DeepOrbit\VR.Build.cs">
+      <Filter>Source\DeepOrbit</Filter>
+    </None>
+    <Filter Include="Source\DeepOrbit\Private">
+      <UniqueIdentifier>{72E5153A-0D5A-45F0-9E88-F1768735E771}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DeepOrbit\Private\QuaternionRotation.cpp">
+      <Filter>Source\DeepOrbit\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DeepOrbit\Public">
+      <UniqueIdentifier>{B4B23DA8-9A4E-4CA8-86F0-37BC70759504}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DeepOrbit\Public\QuaternionRotation.h">
+      <Filter>Source\DeepOrbit\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DeepOrbit",
+			"Path": "C:\\Unreal Projects\\Master-Project\\DeepOrbit\\Source\\DeepOrbit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DeepOrbitEditor",
+			"Path": "C:\\Unreal Projects\\Master-Project\\DeepOrbit\\Source\\DeepOrbitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

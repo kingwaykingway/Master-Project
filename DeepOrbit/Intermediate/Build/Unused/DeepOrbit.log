@@ -1,0 +1,21 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Projects\Master-Project).
+  Creating makefile for DeepOrbitEditor (no existing makefile)
+  Parsing headers for DeepOrbitEditor
+    Running UnrealHeaderTool "C:\Unreal Projects\Master-Project\DeepOrbit\DeepOrbit.uproject" "C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\DeepOrbitEditor\Development\DeepOrbitEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kingw\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for DeepOrbitEditor in 11.8445559 seconds
+  Building DeepOrbitEditor...
+  Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 8 processes...
+    [1/9] Default.rc2
+    [2/9] SharedPCH.Engine.ShadowErrors.cpp
+    [3/9] DeepOrbit.cpp
+    [4/9] QuaternionRotation.cpp
+    [5/9] DeepOrbit.init.gen.cpp
+    [6/9] QuaternionRotation.gen.cpp
+    [7/9] UE4Editor-DeepOrbit.lib
+      正在创建库 C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\UE4Editor\Development\DeepOrbit\UE4Editor-DeepOrbit.lib 和对象 C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\UE4Editor\Development\DeepOrbit\UE4Editor-DeepOrbit.exp
+    [8/9] UE4Editor-DeepOrbit.dll
+      正在创建库 C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\UE4Editor\Development\DeepOrbit\UE4Editor-DeepOrbit.suppressed.lib 和对象 C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\UE4Editor\Development\DeepOrbit\UE4Editor-DeepOrbit.suppressed.exp
+    [9/9] DeepOrbitEditor.target
+  Total time in Parallel executor: 36.44 seconds
+  Total execution time: 68.52 seconds

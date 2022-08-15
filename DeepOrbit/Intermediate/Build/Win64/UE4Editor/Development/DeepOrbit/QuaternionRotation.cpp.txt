@@ -1,0 +1,3 @@
+C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\UE4Editor\Development\DeepOrbit\Definitions.DeepOrbit.h
+C:\Unreal Projects\Master-Project\DeepOrbit\Source\DeepOrbit\Public\QuaternionRotation.h
+C:\Unreal Projects\Master-Project\DeepOrbit\Intermediate\Build\Win64\UE4Editor\Inc\DeepOrbit\QuaternionRotation.generated.h
