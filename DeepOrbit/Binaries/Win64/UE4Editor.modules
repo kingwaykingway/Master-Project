@@ -1,8 +1,0 @@
-{
-	"BuildId": "14830424",
-	"Modules": 
-	{
-		"DeepOrbit": "UE4Editor-DeepOrbit.dll",
-		"VR": "UE4Editor-VR.dll"
-	}
-}
