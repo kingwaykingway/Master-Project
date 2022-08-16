@@ -21,18 +21,22 @@ Players with any diseases above should ***AVOID*** playing the game for safety.
 
 Download the latest release for playtesting: https://github.com/kingwaykingway/Master-Project/releases
 
-Questionnaire link: https://forms.gle/mnsR3FweRoz7C3wk8
-
-(alternative: https://docs.google.com/forms/d/e/1FAIpQLSfeAfOlAkXc_Pb0ZQ4zC941ofpFMSipUUEgLAdIyLx72p5oog/viewform?usp=sf_link)
 
 > ### For user test participants 
+>
+> Questionnaire link: https://forms.gle/mnsR3FweRoz7C3wk8
+\
+> (alternative: https://docs.google.com/forms/d/e/1FAIpQLSfeAfOlAkXc_Pb0ZQ4zC941ofpFMSipUUEgLAdIyLx72p5oog/viewform?usp=sf_link)
+> 
+> *This is an anonymous questionnaire. Your personal data, including email address, will not be collected.*
+> 
 > It is suggested that first half questionnaire be filled before play testing. 
 \
 > The adviced playing time is 10 minutes. Please keep time managed and fill the second half questionnaire afterwards. 
 \
 > No additional gameplay instructions will be given, as the designing aims at being minimalized and self-explanatory. 
 \
-> For technical issues, please contact author or open an issue. 
+> For technical issues only, please contact author or open an issue. 
 
 ### Platform
 
